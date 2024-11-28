@@ -1,0 +1,94 @@
+.recipe-create-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #fdfdfd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  .input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .add-btn, .publish-btn {
+    background-color: #f04e30;
+   
+    border: none;
+    margin-left: 400px;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 50px;
+    cursor: pointer;
+    margin-left: 400px;
+  }
+  
+  .add-btn:hover, .publish-btn:hover {
+    background-color: #d84325;
+  }
+  .recipe-card1-header{
+    display: flex;
+     }
+
+
+.recipe-btn{
+  display: flex;
+
+}
+.btn-recipe{
+  margin-top: 20px;
+  margin-left: auto;
+  background-color: bisque;
+  width: 470px;
+  border-radius:50px;
+  border: 1px solid bisque;
+
+}
+.input-title{
+  background-color:bisque ;
+  border-radius: 40px;
+  width: 935px;
+}
+.input-description{
+  background-color:bisque ;
+  border-radius: 40px;
+  width: 935px;
+  height: 50px;
+}
+.ingredient-item{
+  display: flex;
+}
+.input-title1{
+  background-color:bisque ;
+  border-radius: 40px;
+  width: 935px !important;
+  
+  margin-left: 10px;
+}
+.remove-button{
+  border: 1px solid bisque;
+  border-radius: 50px;
+  background-color: bisque;
+}
+.add-video{
+  border: 1px solid bisque;
+  width: 930px !important;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: bisque;
+}
+.youtube-icon{
+  
+    color: #ff0000; /* YouTube red */
+    font-size: 24px;
+    cursor: pointer;
+    padding: 20px;
+  
+}
